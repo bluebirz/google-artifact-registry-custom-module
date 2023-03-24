@@ -1,0 +1,2 @@
+-i https://{LOCATION}-python.pkg.dev/{PROJECT-ID}/{REPO-NAME}/simple/
+my-adder==0.1.0

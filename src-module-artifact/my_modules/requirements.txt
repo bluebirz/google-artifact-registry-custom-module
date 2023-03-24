@@ -1,0 +1,7 @@
+# python packaging
+twine
+wheel
+build
+# Google Artifact Registry
+keyring
+keyrings.google-artifactregistry-auth

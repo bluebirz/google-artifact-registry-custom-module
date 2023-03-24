@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/my_adder/__init__.py
+src/my_adder/adder.py
+src/my_adder.egg-info/PKG-INFO
+src/my_adder.egg-info/SOURCES.txt
+src/my_adder.egg-info/dependency_links.txt
+src/my_adder.egg-info/top_level.txt
