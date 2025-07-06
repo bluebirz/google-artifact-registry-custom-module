@@ -8,8 +8,7 @@
 
 ## blog related
 
-- [EN] [A private repo for our own Python packages](https://www.bluebirz.net/en/a-private-repo-for-our-own-python/)
-- [TH] [Python package ของเราก็เก็บไว้ที่ repo ของเราเอง](https://www.bluebirz.net/th/a-private-repo-for-our-own-python-th/)
+- [Blog] [A private repo for our own Python packages](https://bluebirz.net/posts/private-repo-python/)
 - [Medium] [A private repo for our own Python packages](https://medium.com/@bluebirz/a-private-repo-for-our-own-python-packages-83fbf3c308f9)
 
 ## Concept diagram
